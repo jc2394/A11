@@ -50,8 +50,15 @@ header h3{
 	text-indent: 30px; 
 }
 
+footer {
+	border-top: 3px solid #931420;
+	background-color: #931420;
+}
+
 footer p {
 	text-align: center;
+	color: white;
+	
 }
 
 a:focus, a:hover {
