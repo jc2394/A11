@@ -11,6 +11,9 @@ body {
 	background-color: #fffded;
 }
 
+header{
+	margin-bottom: 0px;
+}
 
 main {
 	clear: left;
