@@ -21,6 +21,8 @@ main {
 
 main h1 {
 	font-size: 150%;
+	border-bottom: 3px solid #931420;
+	border-top: 3px solid #931420;
 }
 
 main h2 {
@@ -59,4 +61,3 @@ a:focus, a:hover {
 .shadow {
 	text-shadow:5px 5px 5px #800000;
 }
-
