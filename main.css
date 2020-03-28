@@ -1,4 +1,5 @@
 html {background-color: white;}
+$(":reset")
 body {
 	font-family: Arial, Helvetica, sans-serif;
     	font-size: 100%;
@@ -13,10 +14,14 @@ body {
 
 header{
 	border-bottom: 3px solid #931420;
+	padding-top: 1.5em;
+	padding-bottom: 2em;
 }
 
 main {
 	clear: left;
+	padding-left: 30px;
+	padding-right: 30px;
 }
 
 main h1 {
@@ -41,19 +46,20 @@ header img {
 header h2 {
 	font-size: 170%;
 	color: #800000;
-	text-indent: 30px; 
+	padding-right: 30px;
+	padding-left: 30px; 
 }
 
 header h3{
 	font-size: 130%;
 	font-style: italic;
-	text-indent: 30px; 
+	padding-right: 30px;
+	padding-left: 30px; 
 }
 
 footer {
 	border-top: 3px solid #931420;
 	background-color: #931420;
-	border-bottom: 3px solid #931420;
 }
 
 footer p {
